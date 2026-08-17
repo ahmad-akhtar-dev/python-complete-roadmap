@@ -1,0 +1,3 @@
+Python is simple to start.
+Practice makes programming easier.
+GitHub shows your progress.

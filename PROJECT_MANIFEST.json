@@ -1,0 +1,19 @@
+{
+  "project": "Python Complete Roadmap",
+  "author": "Ahmad Akhtar",
+  "total_python_files": 496,
+  "sections": {
+    "00_Python_Setup": 20,
+    "01_Python_Basics": 20,
+    "02_Conditions_and_Loops": 40,
+    "03_Functions": 40,
+    "04_Python_Collections": 115,
+    "05_Arrays": 40,
+    "06_String_Operations": 20,
+    "07_File_Handling": 20,
+    "08_Exception_Handling": 20,
+    "09_Object_Oriented_Programming": 20,
+    "10_Modules_and_Packages": 121,
+    "11_Intermediate_Python": 20
+  }
+}
